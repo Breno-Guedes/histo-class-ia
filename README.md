@@ -26,10 +26,10 @@ Para o processamento das imagens, foi utilizada a biblioteca **OpenCV**, incluin
 
 ```text
 histo-class-ia/
-├── notebook/
-│   └── Breast-Cancer-Classification-IDC.ipynb
-├── .gitignore
-└── README.md
+  ├── notebook/
+  │   └── Breast-Cancer-Classification-IDC.ipynb
+  ├── .gitignore
+  └── README.md
 ```
 
 ## Instruções de Uso
