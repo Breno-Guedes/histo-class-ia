@@ -8,7 +8,7 @@
 
 ## Sobre o Projeto
 
-Este repositório contém o trabalho desenvolvido para a disciplina de **Inteligência Artificial**, sob orientação do **Professor Igor Bezerra Reis**.
+Este repositório contém o trabalho desenvolvido para a disciplina de **Inteligência Artificial**.
 
 O projeto foca na classificação automática de imagens de histopatologia para a detecção de **Carcinoma Ductal Invasivo (IDC)** em amostras de câncer de mama. O objetivo é comparar o desempenho de diferentes algoritmos de aprendizado supervisionado no processamento e classificação dessas imagens médicas.
 
@@ -58,4 +58,3 @@ Os experimentos utilizam um dataset de imagens histopatológicas para classifica
 ## Autores
 
 - **Breno Souza Guedes** — Desenvolvedor
-- **Prof. Igor Bezerra Reis** — Orientação da disciplina de Inteligência Artificial
